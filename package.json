@@ -1,0 +1,26 @@
+{
+  "name": "typescript-design-patterns",
+  "version": "1.0.0",
+  "description": "deeply learning design pattern",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "(npx parcel ./index.html) & npx parcel watch ./index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WillElvire/typescript-design-patterns.git"
+  },
+  "keywords": [
+    "desing_pattern"
+  ],
+  "author": "willelvire",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WillElvire/typescript-design-patterns/issues"
+  },
+  "homepage": "https://github.com/WillElvire/typescript-design-patterns#readme",
+  "devDependencies": {
+    "parcel": "^2.10.3",
+    "prettier": "3.1.0"
+  }
+}
